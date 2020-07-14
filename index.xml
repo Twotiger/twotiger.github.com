@@ -6,7 +6,6 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 17:02:00 +0800</lastBuildDate>
     
 	<atom:link href="https://twotiger.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +26,7 @@ Python交互式解释器 _ node交互式解释器 和python一样也是 _</descr
       <pubDate>Mon, 22 Jun 2020 19:48:42 +0800</pubDate>
       
       <guid>https://twotiger.github.io/about/</guid>
-      <description>about</description>
+      <description>about test</description>
     </item>
     
   </channel>
