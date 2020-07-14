@@ -13,10 +13,10 @@
     
     <item>
       <title>交互式控制台返回最近计算的表达式的值</title>
-      <link>https://twotiger.github.io/post/2020-07-14/</link>
+      <link>https://twotiger.github.io/2020-07-14/</link>
       <pubDate>Mon, 13 Jul 2020 17:02:00 +0800</pubDate>
       
-      <guid>https://twotiger.github.io/post/2020-07-14/</guid>
+      <guid>https://twotiger.github.io/2020-07-14/</guid>
       <description>交互式控制台返回最近计算的表达式的值 Chrome控制台 $_ $_ 返回最近计算的表达式的值。
 Python交互式解释器 _ node交互式解释器 和python一样也是 _</description>
     </item>
